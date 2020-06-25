@@ -45,16 +45,5 @@ The teaching format will be a mix of online and teaching on campus.
  All lectures will be online and consist of an on-demand part and live part where questions are answered. Lab/exercise classes will run both online and on-campus.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://abjer.github.io/isds2020/page/readings_ml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
-      <guid>https://abjer.github.io/isds2020/page/readings_ml/</guid>
-      <description>Session 10: Machine learning intro We introduce basic machine learning concepts. We start with the simple machine learning models for classification problems.
-Required readings  PML: chapters 1,2 and the following section from chapter 3:  Modeling class probabilities via logistic regression    Session 11: Supervised learning 1 We explain the overfitting problem of modelling. We show one possible solution is regularization of standard linear models.
-Required readings  PML: chapter 3, the following sections:  Tackling overfitting via regularization Partitioning a dataset into separate training and test sets   PML: chapter 4, the following sections:  Bringing features onto the same scale Selecting meaningful features    Session 12: Supervised learning 2 We introduce cross validation to gauge overfitting and review the linear model.</description>
-    </item>
-    
   </channel>
 </rss>
