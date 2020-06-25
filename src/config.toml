@@ -1,0 +1,94 @@
+baseurl = "https://abjer.github.io/isds2020"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "Intro to Social Data Science"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  homeTitle = "Intro to Social Data Science 2020" # Set a different text for the header on the home page
+  #subtitle = "A summer school by Center for Social Data Science"
+  logo = "img/ku_logo_uk_v.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  useHLJS = false
+  socialShare = false
+
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Andreas Bjerre-Nielsen"
+  website = "sodas.ku.dk"
+  email = "abn@sodas.ku.dk"
+
+  # Menu links
+  [[menu.main]]
+      name = "Welcome"
+      url = ""
+      weight = 1
+  [[menu.main]]
+      identifier = "posts"
+      name = "Posts"
+      weight = 2
+  [[menu.main]]
+      name = "Readings"
+      weight = 3
+      url = "page/readings/"
+  [[menu.main]]
+      name = "Timeplan"
+      weight = 4
+      url = "page/timeplan/"
+  [[menu.main]]
+      name = "Practical info"
+      weight = 5
+      url = "page/practical/"
+  # Posts
+  [[menu.main]]
+      parent = "posts"
+      name = "Preparation"
+      url = "post/preparation/"
+      weight = 1
+  [[menu.main]]
+      parent = "posts"
+      name = "Assignments"
+      url = "post/assignment/"
+      weight = 2
+  [[menu.main]]
+      parent = "posts"
+      name = "Installation"
+      url = "post/install/"
+      weight = 3
+  [[menu.main]]
+      parent = "posts"
+      name = "Jupyter tips"
+      url = "post/jupyter/"
+      weight = 4
+    [[menu.main]]
+        parent = "posts"
+        name = "Exam project"
+        url = "post/exam/"
+        weight = 5

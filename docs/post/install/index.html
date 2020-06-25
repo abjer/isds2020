@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Installation - Intro to Social Data Science</title>
+  <meta name="description" content="This class will involve a lot of coding, for which you will need some basic tools.
+ Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.
+Python and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.">
+  <meta name="author" content="Andreas Bjerre-Nielsen"/><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Intro to Social Data Science",
+    
+    "url": "https:\/\/abjer.github.io\/isds2020"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/abjer.github.io\/isds2020"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/abjer.github.io\/isds2020",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/abjer.github.io\/isds2020\/post\/install\/",
+          "name": "Installation"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "Andreas Bjerre-Nielsen"
+  },
+  "headline": "Installation",
+  "description" : "This class will involve a lot of coding, for which you will need some basic tools.\n Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don\x26rsquo;t worry if this is all new and perhaps a bit frightening right now.\nPython and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.",
+  "inLanguage" : "en",
+  "wordCount":  988 ,
+  "datePublished" : "2020-06-22T00:00:00",
+  "dateModified" : "2020-06-22T00:00:00",
+  "image" : "https:\/\/abjer.github.io\/isds2020\/img\/ku_logo_uk_v.png",
+  "keywords" : [ "" ],
+  "mainEntityOfPage" : "https:\/\/abjer.github.io\/isds2020\/post\/install\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/abjer.github.io\/isds2020",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/abjer.github.io\/isds2020\/img\/ku_logo_uk_v.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Installation" />
+<meta property="og:description" content="This class will involve a lot of coding, for which you will need some basic tools.
+ Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.
+Python and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.">
+<meta property="og:image" content="https://abjer.github.io/isds2020/img/ku_logo_uk_v.png" />
+<meta property="og:url" content="https://abjer.github.io/isds2020/post/install/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Intro to Social Data Science" />
+
+  <meta name="twitter:title" content="Installation" />
+  <meta name="twitter:description" content="This class will involve a lot of coding, for which you will need some basic tools.
+ Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, …">
+  <meta name="twitter:image" content="https://abjer.github.io/isds2020/img/ku_logo_uk_v.png" />
+  <meta name="twitter:card" content="summary" />
+  <link href='https://abjer.github.io/isds2020/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="generator" content="Hugo 0.63.2" />
+  <link rel="alternate" href="https://abjer.github.io/isds2020/index.xml" type="application/rss+xml" title="Intro to Social Data Science"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://abjer.github.io/isds2020/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://abjer.github.io/isds2020/css/syntax.css" /><link rel="stylesheet" href="https://abjer.github.io/isds2020/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://abjer.github.io/isds2020">Intro to Social Data Science</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="Welcome" href="/isds2020">Welcome</a>
+            </li>
+          
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent">Posts</a>
+              <div class="navlinks-children">
+                
+                  <a href="/isds2020/post/preparation/">Preparation</a>
+                
+                  <a href="/isds2020/post/assignment/">Assignments</a>
+                
+                  <a href="/isds2020/post/install/">Installation</a>
+                
+                  <a href="/isds2020/post/jupyter/">Jupyter tips</a>
+                
+                  <a href="/isds2020/post/exam/">Exam project</a>
+                
+              </div>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Readings" href="/isds2020/page/readings/">Readings</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Timeplan" href="/isds2020/page/timeplan/">Timeplan</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Practical info" href="/isds2020/page/practical/">Practical info</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+      <div class="avatar-container">
+        <div class="avatar-img-border">
+          <a title="Intro to Social Data Science" href="https://abjer.github.io/isds2020">
+            <img class="avatar-img" src="https://abjer.github.io/isds2020/img/ku_logo_uk_v.png" alt="Intro to Social Data Science" />
+          </a>
+        </div>
+      </div>
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              
+                <h1>Installation</h1>
+              
+              
+              
+              
+                <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on June 22, 2020
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Andreas Bjerre-Nielsen
+    
+  
+  
+</span>
+
+
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>This class will involve a lot of coding, for which you will need some basic tools.</p>
+<ol>
+<li><a href="#python-and-jupyter-notebook">Python and Jupyter notebook</a></li>
+<li><a href="#a-git-client">A git client</a></li>
+<li><a href="#a-github-account">A github account</a></li>
+</ol>
+<p>We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.</p>
+<h2 id="python-and-jupyter-notebook">Python and Jupyter notebook</h2>
+<p><a href="https://www.python.org/">Python</a> is a free programming language. We will use the distribution called <a href="https://docs.anaconda.com/anaconda/">Anaconda</a> as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.7 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.</p>
+<p>Anaconda can be downloaded <a href="https://www.anaconda.com/distribution/#download-section">here</a>, for Windows, Mac or Linux.
+If you want to watch a step-by-step tutorial on how to install Anaconda and Jupyter Notebook for you machine see the guides here:</p>
+<ul>
+<li>Install Anaconda for Windows by <a href="https://docs.anaconda.com/anaconda/install/windows/">following these steps</a> or <a href="https://www.youtube.com/watch?v=Vt6loGK9Adc">watch this video</a></li>
+<li>Install Anaconda for Mac by <a href="https://docs.anaconda.com/anaconda/install/mac-os/">following these steps</a> or <a href="https://www.youtube.com/watch?v=OOFONKvaz0A">watch this video</a></li>
+</ul>
+<p>Since the vast majority of our coding will be in the Python language, we will use an integrated development environment (<a href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>). IDEs integrate text editing, syntax highlighting, and version control,
+simplifying the coding process. These packages are automatically included in Anaconda <a href="https://jupyter.org">Jupyter Notebook</a>. It&rsquo;s free and modern, and if you&rsquo;re new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.</p>
+<h4 id="verifying-the-installation">Verifying the installation</h4>
+<p>After installation of Python please to execute a number of commands in the shell. You need to first open your local shell, this is the <code>Anaconda Prompt</code> on Windows or <code>terminal</code> on Linux/Mac. See details <a href="https://docs.anaconda.com/anaconda/user-guide/getting-started/">here</a>. Once the shell is open type <code>python</code> - this will start Python. Once you have Python started please try the following two commands to verify that it&rsquo;s working.</p>
+<div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="mi">1</span><span class="o">+</span><span class="mi">2</span>
+<span class="o">&gt;&gt;</span><span class="o">&gt;</span> <span class="mi">3</span>
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="k">print</span><span class="p">(</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">Welcome to Introduction to Social Data Science</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="o">&gt;&gt;</span><span class="o">&gt;</span> <span class="n">Welcome</span> <span class="n">to</span> <span class="n">Introduction</span> <span class="n">to</span> <span class="n">Social</span> <span class="n">Data</span> <span class="n">Science</span>
+</code></pre></div><h4 id="welcome-to-open-source">Welcome to open source</h4>
+<p>To know core Python is powerful in itself, but the great potentials lie in the huge community of developers and researchers contributing to a shared pool of software packages. A programming language is as powerful as the community that surrounds it. Especially in the field of machine learning, the Python community is leading the way, allowing you to share code with top researchers from the field and industry, among others Google&rsquo;s top engineering teams. Tapping into these vast resources is made easy by the Conda distribution and the pip package manager. Just open your shell/command-line/terminal and type the following:
+<code>conda install [name of package]</code></p>
+<p>or if conda does not support it directly use the more generic package manager:
+<code>pip install [name of package]</code></p>
+<h4 id="using-jypyter-notebook">Using Jypyter notebook</h4>
+<p>The <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app">Jupyter Notebook App</a> can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (only Windows) or by typing the following either in a terminal (on Mac/Linux) or cmd (on Windows).</p>
+<p><code>jupyter notebook</code></p>
+<p>This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.</p>
+<h4 id="getting-friendly-with-jupyter">Getting friendly with Jupyter</h4>
+<p>Try to spend a little time familiarizing yourself with the Jupyter framework. For instance, try learning a few of your editor&rsquo;s keyboard shortcuts; see our post <a href="/post/jupyter/">here</a>. The point is to be as productive as possible when working with the computer. Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:</p>
+<blockquote>
+<p>The key thing I emphasize to students is they should be using the mouse as little as possible. Every time you move your hands away from the keys, you&rsquo;re slowing yourself down.</p>
+</blockquote>
+<h2 id="a-git-client">A Git client</h2>
+<p><a href="http://git-scm.com">Git</a> is a version control system that allows you to track modifications to files and code over time. It also facilitates collaborations so that multiple people can share and edit the same code base.</p>
+<p>If you are on Windows you can install <a href="https://desktop.github.com">Github Desktop</a> which provides both the command line tool for git and a graphical user interface. Alternatively, you can install git as an optional package under Cygwin. I recommend the Github application, as it will be easier to interface with Github using it. Likewise, modern versions of Mac OS X have a command line git client installed by default, but the <a href="https://desktop.github.com">Github Desktop</a> tool is a recommended addition.</p>
+<h2 id="a-github-account">A Github account</h2>
+<p><a href="http://github.com">Github</a> is a platform that facilitates collaboration on projects that use git. You can use it to host projects, publish them to the web, and share them with other people. <a href="https://help.github.com/articles/signing-up-for-a-new-github-account/">Create a free account</a> if you don&rsquo;t already have one.</p>
+<p>Once you have an account, clone the <a href="https://github.com/abjer/isds2020">course repository</a> using your local git client. This is most easily done on the command line as follows:</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">    # git clone https://github.com/abjer/isds2020
+	Cloning into &#39;isds2020&#39;...
+	remote: Counting objects: 145, done.
+	remote: Compressing objects: 100% (98/98), done.
+	remote: Total 145 (delta 40), reused 137 (delta 37)
+	Receiving objects: 100% (145/145), 454.90 KiB | 594.00 KiB/s, done.
+	Resolving deltas: 100% (40/40), done.
+	Checking connectivity... done.
+</code></pre></div><p>When this is complete, verify that you have a local directory called <code>isds2020</code> containing a <code>README.md</code> file.</p>
+<p>Afterwards you can subscribe to updates, small and big, by using <code>Watch</code> or <code>Star</code> within the GitHub page.</p>
+<h2 id="a-text-editor-optional">A text editor (optional)</h2>
+<p>An important alternative to Jupyter is a decent text editor. A text editor is a program that lets you work with plain-text files. You should pick an editor capable of syntax highlighting, syntax checking (ensuring that brackets and parentheses are properly paired), and handling multiple files. We highly recommend:</p>
+<ul>
+<li><a href="https://code.visualstudio.com/">VSCode</a> or <a href="https://atom.io/">Atom</a></li>
+</ul>
+<p>Another good option is <a href="http://www.sublimetext.com/">Sublime Text</a>.</p>
+<p>All three of these can be extended by installing &ldquo;packages&rdquo;. No matter your choice of editor it is a good idea to find and install extensions that are designed to help you with python programming.</p>
+
+
+        
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://abjer.github.io/isds2020/post/preparation/" data-toggle="tooltip" data-placement="top" title="Preparation">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="https://abjer.github.io/isds2020/post/assignment/" data-toggle="tooltip" data-placement="top" title="Assignments">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="mailto:abn@sodas.ku.dk" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="sodas.ku.dk">Andreas Bjerre-Nielsen</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2020
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://abjer.github.io/isds2020">Intro to Social Data Science</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="https://gohugo.io">Hugo v0.63.2</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://abjer.github.io/isds2020/js/main.js"></script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://abjer.github.io/isds2020/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+

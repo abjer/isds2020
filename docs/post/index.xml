@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Intro to Social Data Science</title>
+    <link>https://abjer.github.io/isds2020/post/</link>
+    <description>Recent content in Posts on Intro to Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
+    <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://abjer.github.io/isds2020/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assignments</title>
+      <link>https://abjer.github.io/isds2020/post/assignment/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/assignment/</guid>
+      <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information.
+Assignment 0: Available July 05. Deadline August 07 @ 12.00
+Assignment 1: Available August 14. Deadline August 16 @ 23.59
+Assignment 2: Available August 19. Deadline August 20 @ 23.59</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://abjer.github.io/isds2020/post/install/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/install/</guid>
+      <description>This class will involve a lot of coding, for which you will need some basic tools.
+ Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.
+Python and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.</description>
+    </item>
+    
+    <item>
+      <title>Preparation</title>
+      <link>https://abjer.github.io/isds2020/post/preparation/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/preparation/</guid>
+      <description>Guide to preparations It is necessary that you time preparing for the course. We expect that you have spent 30-50 hours on learning basic Python before we begin teaching. In particular you should do the following (prioritized order):
+ Install anaconda and other software Install nbgrader with anaconda (write pip install nbgrader in the terminal/prompt) Open Assignment 0 in Jupyter notebook, see this guide on how to open and use a notebook Work on Assignment 0 - try to solve as much as possible When you get stuck then follow the trouble shooting guidline below - start with a) and move to d)  Assignment 0 In preparation for the course you are expected to hand in an assignment in Python before lectures begin.</description>
+    </item>
+    
+  </channel>
+</rss>
