@@ -4,17 +4,22 @@
   
   <url>
     <loc>https://abjer.github.io/isds2020/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://abjer.github.io/isds2020/post/assignment/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+    <loc>https://abjer.github.io/isds2020/post/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://abjer.github.io/isds2020/post/</loc>
+    <loc>https://abjer.github.io/isds2020/post/jupyter/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abjer.github.io/isds2020/post/assignment/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url>
   

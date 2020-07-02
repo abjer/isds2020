@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
     <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
-    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://abjer.github.io/isds2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Useful Jupyter tips</title>
+      <link>https://abjer.github.io/isds2020/post/jupyter/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/jupyter/</guid>
+      <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells
+ enter edit mode: click inside the cell or press ENTR exit edit mode: click outside cell or press ESC. executing code within a cell is SHFT+ENTR or CTRL+ENTR (not same!</description>
+    </item>
     
     <item>
       <title>Assignments</title>

@@ -1,6 +1,6 @@
 ---
 title: Course readings
-date: 2019-06-27
+date: 2020-06-27
 markup: mmark
 ---
 
@@ -69,20 +69,7 @@ We start to leverage our python knowledge to make queries on the web. This allow
 
 
 
-## Sessions 3: Data structuring 1
-We learn about missing data, data transformation.  
-
-#### Required reading
-
-- PDA: chapter 7 and sections 5.3, 6.1-6.2
-
-
-#### Inspirational reading
-- Lohr, Steve. 2014. "[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)"
-
-
-
-## Session 4: Intro to visualization
+## Session 3: Intro to visualization
 
 We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/pandas-docs/stable/) and [seaborn](https://seaborn.pydata.org/index.html). Both these modules are built on the fundamental and flexible plotting module [matplotlib](https://matplotlib.org).
 
@@ -97,6 +84,20 @@ We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/
 - Schwabish, Jonathan A. 2014. "[An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles.php?doi=10.1257/jep.28.1.209)". *Journal of Economic Perspectives*, 28(1): 209-34.
 - Healy, Kieran and James Moody. 2014. "[Data Visualization in Sociology](http://kieranhealy.org/files/papers/data-visualization.pdf)". *Annual Review of Sociology*, 40:105–128.
 - Cherdarchuk, Joey. 2013. "[Data Looks Better Naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked/)", blog post.
+
+
+## Sessions 4: Data structuring 1
+We learn about missing data, data transformation.  
+
+#### Required reading
+
+- PDA: chapter 7 and sections 5.3, 6.1-6.2
+
+
+#### Inspirational reading
+- Lohr, Steve. 2014. "[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)"
+
+
 
 ## Session 5: Data structuring 2
 

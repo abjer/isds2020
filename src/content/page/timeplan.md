@@ -1,6 +1,6 @@
 ---
 title: Timeplan
-date: 2019-06-23
+date: 2020-06-23
 markup: mmark
 ---
 
@@ -31,8 +31,8 @@ Aug 10|  9-10 | 1a. Course welcome | DDL |
  | 10-11 | 1b. Python intro  | ABN |  
  | 11-12 | 1c. Meet group and intro to git  | TAs |  
  | 14-17 | 2. Strings, queries and APIs | ABN & TAs|
-Aug 11|  9-12 | 3. Data structuring 1 | ABN & TAs|
- | 14-17 | 4. Visualizations | ABN & TAs|
+Aug 11|  9-12 | 3. Visualizations | ABN & TAs|
+ | 14-17 | 4. Data structuring 1 | ABN & TAs|
 Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
  | 14-17 | 6. Scraping 1 | NJ |
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |  
