@@ -141,3 +141,26 @@ TBD
 
 ## Session 14: Text data
 TBD
+
+
+
+## Session 15: Text data
+We introduce the concept of **Text as Data**, and apply our newly acquired knowledge of supervised learning to a text classification problem.
+
+#### Required readings
+
+- PML: following sections from chapter 8:
+  - Preparing the IMDb movie review data for text processing
+  - Introducing the bag-of-words model
+  - Training a logistic regression model for document classification
+
+- Gentzkow, M., Kelly, B.T. and Taddy, M., 2019. ["Text as data"](https://doi.org/10.1257/jel.20181020) *Journal of Economic Literature* 57(3).
+
+Jurafsky, D., & Martin, J. H. (2019). Vector Semantics and Embeddings. Speech and Language Processing, 3rd ed. draft. https://web.stanford.edu/~jurafsky/slp3/6.pdf
+
+
+#### Inspirational readings
+
+Gorrell, Genevieve et al. “Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians.” ICWSM (2018). https://gate-socmedia.group.shef.ac.uk/wp-content/uploads/2019/07/Gorrell-Greenwood.pdf
+
+Pang, Bo et al. “Thumbs up? Sentiment Classification using Machine Learning Techniques.” EMNLP (2002). https://www.aclweb.org/anthology/W02-1011.pdf
