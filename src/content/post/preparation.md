@@ -8,7 +8,7 @@ date: 2020-06-21
 # Guide to preparations
 It is necessary that you time preparing for the course. We expect that you have spent up 50 hours on learning basic Python and pandas before we begin teaching, depending on your prior experience. In particular you should do the following (prioritized order):
 
-1. [Install anaconda and other software](/post/install)
+1. [Install anaconda and other software](/isds2020/post/install/)
 2. Open Assignment 0 in Jupyter notebook, [see this guide](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks) on how to open and use a notebook
 3. Work on Assignment 0 - try to solve as much as possible
 4. When you get stuck then follow the trouble shooting guideline below - start with a) and move to d)
@@ -22,9 +22,9 @@ It is necessary that you time preparing for the course. We expect that you have 
 
 ## Assignment 0
 In preparation for the course you are expected to hand in an assignment in Python before lectures begin. This assignment is intended to ensure that you all know some basic python when you begin the summer school.
-The assignment will be posted on github and Absalon on July 5, and must also be handed in via Absalon. See deadline in the [assignment post](/post/install).
+The assignment will be posted on github and Absalon on July 5, and must also be handed in via Absalon. See deadline in the [assignment post](/isds2020/post/assignment/).
 
-The assignment is **individual**. You are welcome to discuss answers with others. The answers you provide in the assignment will be used to **place you into groups**, see [practical info](/page/practical) for details. Your
+The assignment is **individual**. You are welcome to discuss answers with others. The answers you provide in the assignment will be used to **place you into groups**, see [practical info](/isds2020/page/practical/) for details. Your
 group members will be randomly selected among those who performed approximately equally well on assignment 0.
 
 

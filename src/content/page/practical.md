@@ -7,7 +7,7 @@ This page contains information about the course groups as well as information on
 
 # Place and time
 
-The course runs from August 10, 2020 to August 29. See [timeplan](/page/timeplan) for teaching schedule.
+The course runs from August 10, 2020 to August 29. See [timeplan](/isds2020/page/timeplan/) for teaching schedule.
 
 The teaching format will be a mix of online and teaching on campus.
 - All lectures will be online and consist of an on-demand part and live part where questions are answered.
@@ -29,7 +29,7 @@ There are three mandatory assignments. Two of three must be passed in order to b
 - Assignment 1: collecting data and structuring data.
 - Assignment 2: machine learning and text data.
 
-The assignments will be available in Absalon and at the [assignment page](https://abjer.github.io/sds2019/post/assignment)
+The assignments will be available in Absalon and at the [assignment page](/isds2020/post/assignment/)
 
 # Exam project
 

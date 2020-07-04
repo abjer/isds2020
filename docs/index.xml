@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
     <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://abjer.github.io/isds2020/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exam project</title>
+      <link>https://abjer.github.io/isds2020/post/exam/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/exam/</guid>
+      <description>When the teaching in our course finishes you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs from August 23, 2019 from 15 PM to August 30 at 15 PM.
+In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.</description>
+    </item>
     
     <item>
       <title>Useful Jupyter tips</title>

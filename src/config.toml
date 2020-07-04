@@ -8,6 +8,7 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+publishDir = "docs"
 
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
