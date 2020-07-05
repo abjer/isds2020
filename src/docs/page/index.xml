@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Intro to Social Data Science</title>
+    <link>https://abjer.github.io/isds2020/page/</link>
+    <description>Recent content in Pages on Intro to Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
+    <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://abjer.github.io/isds2020/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Course readings</title>
+      <link>https://abjer.github.io/isds2020/page/readings/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/page/readings/</guid>
+      <description>Textbook for general introduction to social data science:
+ Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here.  Textbooks for data science in Python
+ Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML]  Preparation and Assignment 0 The course begin with your preparation for the teaching.</description>
+    </item>
+    
+    <item>
+      <title>Timeplan</title>
+      <link>https://abjer.github.io/isds2020/page/timeplan/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/page/timeplan/</guid>
+      <description>This page contains a schedule of the teaching sessions. In general most of the teaching will take place August 10-19, 2020. Each day will contain one-two teaching sessions. Most sessions will follow the daily schedule below:
+ Morning session (9-12):  9-11 exercises, 11-12 live lecture (via Zoom - link in Absalon page)  Lunch break (12-14):  12-13 optional office via Zoom (must book via email to either ABN, NJ or TJ)  Afternoon session (14-17):  14-16 exercise 16-17 live lecture (via Zoom - link in Absalon page)   The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
+    </item>
+    
+    <item>
+      <title>Practical info</title>
+      <link>https://abjer.github.io/isds2020/page/practical/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/page/practical/</guid>
+      <description>This page contains information about the course groups as well as information on mandatory assignments and exam project.
+Place and time The course runs from August 10, 2020 to August 29. See timeplan for teaching schedule.
+The teaching format will be a mix of online and teaching on campus.
+ All lectures will be online and consist of an on-demand part and live part where questions are answered. Lab/exercise classes will run both online and on-campus.</description>
+    </item>
+    
+  </channel>
+</rss>

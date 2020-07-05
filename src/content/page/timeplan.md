@@ -23,7 +23,7 @@ The complete schedule of sessions is listed below with title, lecturer and links
 Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
-Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  |
+Jul 05|        |  <font color="green">Assignment 0 [posted](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb)</font>   |  |
 Aug 04| TBD        |  Assignment 0 online workshop `*`  |  TAs |
 Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |

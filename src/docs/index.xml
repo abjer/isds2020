@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to Social Data Science</title>
+    <link>https://abjer.github.io/isds2020/</link>
+    <description>Recent content on Intro to Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</managingEditor>
+    <webMaster>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</webMaster>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://abjer.github.io/isds2020/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exam project</title>
+      <link>https://abjer.github.io/isds2020/post/exam/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/exam/</guid>
+      <description>When the teaching in our course finishes you are to hand in a project. The formal requirements are found here along with details on grading. The exam period runs from August 23, 2019 from 15 PM to August 30 at 15 PM.
+In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.</description>
+    </item>
+    
+    <item>
+      <title>Useful Jupyter tips</title>
+      <link>https://abjer.github.io/isds2020/post/jupyter/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/jupyter/</guid>
+      <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells
+ enter edit mode: click inside the cell or press ENTR exit edit mode: click outside cell or press ESC. executing code within a cell is SHFT+ENTR or CTRL+ENTR (not same!</description>
+    </item>
+    
+    <item>
+      <title>Course readings</title>
+      <link>https://abjer.github.io/isds2020/page/readings/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/page/readings/</guid>
+      <description>Textbook for general introduction to social data science:
+ Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here.  Textbooks for data science in Python
+ Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML]  Preparation and Assignment 0 The course begin with your preparation for the teaching.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>https://abjer.github.io/isds2020/post/assignment/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/assignment/</guid>
+      <description>This post contain practical information related to each of the three assignments. Check back later for news about deadlines and other assignment related information.
+Assignment 0: Available July 05. Deadline August 07 @ 12.00
+Assignment 1: Available August 14. Deadline August 16 @ 23.59
+Assignment 2: Available August 19. Deadline August 20 @ 23.59</description>
+    </item>
+    
+    <item>
+      <title>Timeplan</title>
+      <link>https://abjer.github.io/isds2020/page/timeplan/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/page/timeplan/</guid>
+      <description>This page contains a schedule of the teaching sessions. In general most of the teaching will take place August 10-19, 2020. Each day will contain one-two teaching sessions. Most sessions will follow the daily schedule below:
+ Morning session (9-12):  9-11 exercises, 11-12 live lecture (via Zoom - link in Absalon page)  Lunch break (12-14):  12-13 optional office via Zoom (must book via email to either ABN, NJ or TJ)  Afternoon session (14-17):  14-16 exercise 16-17 live lecture (via Zoom - link in Absalon page)   The complete schedule of sessions is listed below with title, lecturer and links to material.</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://abjer.github.io/isds2020/post/install/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/install/</guid>
+      <description>This class will involve a lot of coding, for which you will need some basic tools.
+ Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.
+Python and Jupyter notebook Python is a free programming language. We will use the distribution called Anaconda as it comes with the most essential for working with data, statistical computing and visualizations.</description>
+    </item>
+    
+    <item>
+      <title>Preparation</title>
+      <link>https://abjer.github.io/isds2020/post/preparation/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/post/preparation/</guid>
+      <description>Guide to preparations It is necessary that you time preparing for the course. We expect that you have spent up 50 hours on learning basic Python and pandas before we begin teaching, depending on your prior experience. In particular you should do the following (prioritized order):
+ Install anaconda and other software Open Assignment 0 in Jupyter notebook, see this guide on how to open and use a notebook Work on Assignment 0 - try to solve as much as possible When you get stuck then follow the trouble shooting guideline below - start with a) and move to d)  Assignment 0 In preparation for the course you are expected to hand in an assignment in Python before lectures begin.</description>
+    </item>
+    
+    <item>
+      <title>Practical info</title>
+      <link>https://abjer.github.io/isds2020/page/practical/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <author>abn@sodas.ku.dk (Andreas Bjerre-Nielsen)</author>
+      <guid>https://abjer.github.io/isds2020/page/practical/</guid>
+      <description>This page contains information about the course groups as well as information on mandatory assignments and exam project.
+Place and time The course runs from August 10, 2020 to August 29. See timeplan for teaching schedule.
+The teaching format will be a mix of online and teaching on campus.
+ All lectures will be online and consist of an on-demand part and live part where questions are answered. Lab/exercise classes will run both online and on-campus.</description>
+    </item>
+    
+  </channel>
+</rss>
