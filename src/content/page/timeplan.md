@@ -82,11 +82,11 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 
 - Open Github Desktop and go to `File -> Open Repository`
 
-- Go to the URL-tab and choose the course Github page (abjer/sds2019), and where you want to save it on your own computer.
+- Go to the URL-tab and choose the course Github page (abjer/isds2020), and where you want to save it on your own computer.
 
 - Now you can access the files on you own computer.
 
-- If there have been updates to the SDS-repository on GitHub, you can update it (known as pull, sync or fetch) in GitHub Desktop by choosing SDS as your `Current repository` and press `Fetch origin`.
+- If there have been updates to the ISDS-repository on GitHub, you can update it (known as pull, sync or fetch) in GitHub Desktop by choosing ISDS as your `Current repository` and press `Fetch origin`.
 
 - NB! When you make changes to your Notebooks, make a copy of the file, with a now name. Else you risk overwriting your changes, the next time you update the repository.
 
