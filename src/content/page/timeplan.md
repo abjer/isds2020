@@ -23,15 +23,15 @@ The complete schedule of sessions is listed below with title, lecturer and links
 Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
-Jul 05|        |  <font color="green">Assignment 0 [posted](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb)</font>   |  |
+Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb)
 Aug 04| TBD        |  Assignment 0 online workshop `*`  |  TAs |
 Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
 Aug 10|  9-10 | 1a. Course welcome | DDL |
  | 10-11 | 1b. Python intro  | ABN |  
  | 11-12 | 1c. Meet group and intro to git  | TAs |  
- | 14-17 | 2. Strings, queries and APIs | ABN & TAs|
-Aug 11|  9-12 | 3. Visualizations | ABN & TAs|
+ | 14-17 | 2. Strings, queries and APIs | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2.ipynb)
+Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb)
  | 14-17 | 4. Data structuring 1 | ABN & TAs|
 Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
  | 14-17 | 6. Scraping 1 | NJ |
