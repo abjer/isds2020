@@ -4,7 +4,7 @@ date: 2020-07-03
 ---
 
 
-When the teaching in our course finishes you are to hand in a project. The formal requirements are found [here](/isds2020/page/practical/) along with details on grading. The exam period runs from August 23, 2019 from 15 PM to August 30 at 15 PM.
+When the teaching in our course finishes you are to hand in a project. The formal requirements are found [here](/isds2020/page/practical/) along with details on grading. The exam period runs from August 23, 2019 from 15 PM to August 29 at 10 AM.
 
 In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it.
 
