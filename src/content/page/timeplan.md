@@ -38,8 +38,8 @@ Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |  
 Aug 13| 9-12| 7. Scraping 2 | NJ & TAs|
  |14-17| 8. Scraping 3 | NJ & TAs|
-Aug 14 | 9-11  | 9a. Assignment 1 workshop | TAs |
- | 10-12  | 9b. Big Data and Ethics | DDL |
+Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL |
+ | 11-12  | 9b. Assignment 1 workshop | TAs |
  | 14-16 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
       |       | ---------   Week 2  --------- | |
