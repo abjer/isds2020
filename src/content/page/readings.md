@@ -27,7 +27,7 @@ The course begin with your preparation for the teaching. This consists in Assign
 
 There are many good resources for learning how to master data structuring. See below for two ways of self-learning:
 
-- DataCamp offers further smaller courses on Pandas and data structuring
+- DataCamp offers further smaller courses on pandas and data structuring
 - Rada, Greg. 2013. "[Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)"- read all three sections.
 
 
@@ -87,12 +87,12 @@ We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/
 
 
 ## Sessions 4: Data structuring 1
-We learn about missing data, data transformation.  
+We learn about data transformation and working with specific data types in pandas: string, missing, categorical and temporal.
 
 #### Required reading
 
-- PDA: chapter 7 and sections 5.3, 6.1-6.2
-
+- PDA: chapter 7 and sections 11.1-11.2, 12.1, 12.3.
+- PML: chapter 4, section 'Handling categorical data'.
 
 #### Inspirational reading
 - Lohr, Steve. 2014. "[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)"
@@ -101,11 +101,10 @@ We learn about missing data, data transformation.
 
 ## Session 5: Data structuring 2
 
-We learn about categorical data and temporal data. We round-off data structuring by learning two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
+We round-off data structuring by learning two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
 
 #### Required reading
-- PDA: chapters 8 and 10 and sections 11.1-11.2, 12.1.
-- PML: chapter 4, section 'Handling categorical data'.
+- PDA: chapters 8 and 10 and sections 5.3, 6.1-6.2
 - Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
 
 ## Session 6: Scraping 1
