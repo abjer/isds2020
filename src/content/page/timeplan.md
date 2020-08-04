@@ -10,7 +10,7 @@ This page contains a schedule of the teaching sessions. In general most of the t
   - 9-11 exercises,
   - 11-12 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
 - Lunch break (12-14):
-  - 12-13 optional office via Zoom (must book via email to either ABN, NJ or TJ)
+  - 12-13 office hours, optional (via Zoom, booking system will come)
 - Afternoon session (14-17):
   - 14-16 exercise
   - 16-17 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
@@ -34,7 +34,7 @@ Aug 10|  9-10 | 1a. Course welcome | DDL |
 Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb)
  | 14-17 | 4. Data structuring 1 | ABN & TAs|
 Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
- | 14-17 | 6. Scraping 1 | NJ |
+ | 14-17 | 6. Scraping 1 | NJ & TAs|
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |  
 Aug 13| 9-12| 7. Scraping 2 | NJ & TAs|
  |14-17| 8. Scraping 3 | NJ & TAs|
