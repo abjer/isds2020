@@ -24,7 +24,7 @@ Date  | Time  | Title | Teachers | Material
 ------|------:|-------|:--------:|:------
       |        | -------   Preparation  ------- | |
 Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment_0.ipynb)
-Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP |
+Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP | [pdf](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment0_workshop_slides.pdf)|
 Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
 Aug 10|  9-10 | 1a. Course welcome | DDL |
