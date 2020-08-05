@@ -8,12 +8,12 @@ This page contains a schedule of the teaching sessions. In general most of the t
 
 - Morning session (9-12):
   - 9-11 exercises,
-  - 11-12 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
+  - 11-12 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
 - Lunch break (12-14):
   - 12-13 office hours, optional (via Zoom, booking system will come)
 - Afternoon session (14-17):
   - 14-16 exercise
-  - 16-17 live lecture (via Zoom - link in [Absalon page](https://absalon.ku.dk/courses/44054))
+  - 16-17 live lecture (via Zoom - links [here](https://absalon.ku.dk/courses/44054/pages/teaching-links))
 
 
 The complete schedule of sessions is listed below with title, lecturer and links to material. Unless otherwise specified, the teaching will use the hours specified above.
