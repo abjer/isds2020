@@ -42,7 +42,7 @@ Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL |
  | 11-12  | 9b. Assignment 1 workshop | TAs |
  | 14-16 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
-      |       | ---------   Week 2  --------- | |
+ |       | ---------   Week 2  --------- | |
 Aug 17|  9-12 | 11. Machine learning intro | ABN & TAs|
 Aug 17| 14-17 | 12. Supervised learning 1 | ABN & TAs|  
 Aug 18|  9-12 | 13. Supervised learning 2 | ABN & TAs|  
