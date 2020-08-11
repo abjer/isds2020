@@ -107,17 +107,47 @@ We round-off data structuring by learning two powerful tools in data structuring
 - PDA: chapters 8 and 10 and sections 5.3, 6.1-6.2
 - Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
 
-## Session 6: Scraping 1
+
+
+## Session 6: Scraping 1 - Introduction to web scaping
+
+We learn to create and collect datasets from the web. This means interacting with apis and webpages and extracting information from unstructured webpages.
+
+#### Required readings
+ 
+- Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.(copies will be provided).
+
+- Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
+ 
+#### Inspirational reading
+
+Below are some interesting academic papers using data scraped from online sources that might provide inspiration for your exam project.
+ 
+- Stephens-Davidowitz, Seth. 2014. "[The cost of racial animus on a black candidate: Evidence using Google search data](http://www.sciencedirect.com/science/article/pii/S0047272714000929)." *Journal of Public Economics*, 118: 26-40.
+ 
+- Stephens-Davidowitz, Seth, Hal Varian, and Michael D. Smith. 2016. "[Super Returns to Super Bowl Ads?](http://people.ischool.berkeley.edu/~hal/Papers/2015/super.pdf)". R & R, *Journal of Political Economy*.
+ 
+- Stephens-Davidowitz, Seth, and Hal Varian. 2015 "[A Hands-on Guide to Google Data](https://www.aeaweb.org/aea/2016conference/program/retrieve.php?pdfid=772)." Google working paper.
+ 
+- Barberá, Pablo. 2015. "[Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data](http://pan.oxfordjournals.org/content/23/1/76.short)." *Political Analysis*, 23.1: 76-91.
+ 
+- Cavallo, A. (2018). ["Scraped data and sticky prices"](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00652). *Review of Economics and Statistics*, 100(1).
+ 
+- Bond, Robert M., et al. 2012. "[A 61-million-person experiment in social influence and political mobilization](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/)." *Nature*, 489.7415: 295-298.
+ 
+ 
+## Session 7: Scraping 2 - Parsing
+Here we develop our skills in parsing. This is a fundamental data science skill that goes beyond web scraping alone.
+
+#### Required readings
+- Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
+- Introduction to pattern matching using regex: "[An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
+ 
+
+## Session 8:
 
 TBD
 
-## Session 7: Scraping 2
-
-TBD
-
-## Session 7: Scraping 3
-
-TBD
 
 ## Session 9: Ethics and Big Data Intro
 
