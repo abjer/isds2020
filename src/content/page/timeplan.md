@@ -33,7 +33,7 @@ Aug 10|  9-10 | 1a. Course welcome | DDL |  [pdf](https://github.com/abjer/isds2
  | 14-17 | 2. Strings, queries and APIs | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2_solution.ipynb)
 Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb)
  | 14-17 | 4. Data structuring 1 | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_4/module_4.ipynb)
-Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
+Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_5/module_5.ipynb)
  | 14-17 | 6. Scraping 1 | NJ & TAs|
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |  
 Aug 13| 9-12| 7. Scraping 2 | NJ & TAs|
@@ -43,12 +43,12 @@ Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL |
  | 14-16 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
-Aug 17|  9-12 | 11. Machine learning intro | ABN & TAs|
-Aug 17| 14-17 | 12. Supervised learning 1 | ABN & TAs|  
-Aug 18|  9-12 | 13. Supervised learning 2 | ABN & TAs|  
-Aug 18| 14-17 | 14. Supervised learning 3 | ABN & TAs|
+Aug 17|  9-12 | 10. Machine learning intro | ABN & TAs|
+Aug 17| 14-17 | 11. Supervised learning 1 | ABN & TAs|  
+Aug 18|  9-12 | 12. Supervised learning 2 | ABN & TAs|  
+Aug 18| 14-17 | 13. Supervised learning 3 | ABN & TAs|
 Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  |  
-Aug 19|  9-12 | 15. Text as data  | TJ & TAs|
+Aug 19|  9-12 | 14. Text as data  | TJ & TAs|
 Aug 20| 23:59 | <font color="red">Assignment 2 hand-in</font>  |  |  
 Aug 21| 9-11 |  *Supervision 2* `*` | TAs |
       |       | ---------   Week 3  ---------   | |
@@ -66,7 +66,7 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 
 #### Teaching assistants (TAs)
 - Emil Chrisander (EC)
-- Esben Brøgger Lemminger (EBM)
+- Esben Brøgger Lemminger (EBL)
 - Kristoffer Pade Glavind (KPG)
 - Jakob Scheel-Bech (EC)
 - Jonas Skjold Raaschou-Pedersen (JSRP)
@@ -93,4 +93,5 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 #### Legend
 - nb: Slides and exercise in Jupyter Notebook format
 - nb sol: Slides and exercise in Jupyter Notebook format (Without solutions to the exercises you have to hand in)
+- {ex, lect}: Exercises or slides in Jupyter Notebook format
 - pdf: Slides in PDF format
