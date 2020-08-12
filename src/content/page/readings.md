@@ -115,7 +115,7 @@ We learn to create and collect datasets from the web. This means interacting wit
 
 #### Required readings
  
-- Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.(copies will be provided).
+- Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.(This can be found under session_6 in teaching material on github).
 
 - Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
  
@@ -144,9 +144,14 @@ Here we develop our skills in parsing. This is a fundamental data science skill 
 - Introduction to pattern matching using regex: "[An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
  
 
-## Session 8:
+## Session 8: Advanced Scrapers
+We become good scrapers being able to automate browsing and using regex but to become great we need to study what others are doing to avoid being scraped. This includes bots, honey traps, AJAX, etc. 
 
-TBD
+#### Inspirational reading
+- [Most Commonly used techniques to Prevent Scraping:](https://medium.com/@betoayesa/using-the-content-as-an-anti-scrape-weapon-draft-9bb10cd30e5c)
+- [Advanced Web Scraping Tactics](https://www.pluralsight.com/guides/advanced-web-scraping-tactics-python-playbook)
+- [Scraping Sites That Use JavaScript and AJAX](https://oup-arc.com/protected/files/content/file/1505319833942-CH9---Scraping-Sites-that-Use-JavaScript-and-AJAX.pdf)
+- [Facebook Scraper 2020: How to Scrape Facebook Group with Python](https://www.bestproxyreviews.com/facebook-scraper/)
 
 
 ## Session 9: Ethics and Big Data Intro
