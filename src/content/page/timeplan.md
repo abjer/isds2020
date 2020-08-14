@@ -34,11 +34,11 @@ Aug 10|  9-10 | 1a. Course welcome | DDL |  [pdf](https://github.com/abjer/isds2
 Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3_solution.ipynb)
  | 14-17 | 4. Data structuring 1 | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_4/module_4.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_4/module_4_solution.ipynb)
 Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_5/module_5.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_5/module_5_solution.ipynb)
- | 13-16 | 6. Scraping 1 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/lecture_6.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/exercise_6.ipynb), [so](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/exercise_6_solution.ipynb)
- | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment1/assignment_1.ipynb) 
-Aug 13| 9-12| 7. Scraping 2 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/lecture_7.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/exercise_7.ipynb)
- |13-16| 8. Scraping 3 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/lecture_8.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/exercise_8.ipynb)
-Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL |
+ | 13-16 | 6. Scraping 1 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/lecture_6.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/exercise_6.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_6/exercise_6_solution.ipynb)
+ | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment1/assignment_1.ipynb)
+Aug 13| 9-12| 7. Scraping 2 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/lecture_7.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/exercise_7.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/exercise_7_solution.ipynb)
+ |13-16| 8. Scraping 3 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/lecture_8.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/exercise_8.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/exercise_8_solution.ipynb)
+Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | [pdf1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part1.pdf) [pdf2](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part2.pdf)
  | 11-12  | 9b. Assignment 1 workshop | TAs |
  | 13-15 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
@@ -93,5 +93,5 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 #### Legend
 - nb: Slides and exercise in Jupyter Notebook format
 - nb sol: Slides and exercise in Jupyter Notebook format (Without solutions to the exercises you have to hand in)
-- {ex, lect}: Exercises or slides in Jupyter Notebook format
+- {ex, lect, sol}: Respectively refer to exercises, slidesor solutions in Jupyter Notebook format
 - pdf: Slides in PDF format
