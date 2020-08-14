@@ -38,12 +38,12 @@ Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs| [nb](https://github.com/abjer
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  | [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment1/assignment_1.ipynb)
 Aug 13| 9-12| 7. Scraping 2 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/lecture_7.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/exercise_7.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_7/exercise_7_solution.ipynb)
  |13-16| 8. Scraping 3 | NJ & TAs| [le](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/lecture_8.ipynb), [ex](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/exercise_8.ipynb), [sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_8/exercise_8_solution.ipynb)
-Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | [pdf1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part1.pdf) [pdf2](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part2.pdf)
+Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | [pdf1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part1.pdf), [pdf2](https://github.com/abjer/isds2020/blob/master/teaching_material/session_9/lecture_Aug14_part2.pdf)
  | 11-12  | 9b. Assignment 1 workshop | TAs |
  | 13-15 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
-Aug 17|  9-12 | 10. Machine learning intro | ABN & TAs|
+Aug 17|  9-12 | 10. Modeling and machine learning intro | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_10/module_10.ipynb)
 Aug 17| 13-16 | 11. Supervised learning 1 | ABN & TAs|  
 Aug 18|  9-12 | 12. Supervised learning 2 | ABN & TAs|  
 Aug 18| 13-16 | 13. Supervised learning 3 | ABN & TAs|
