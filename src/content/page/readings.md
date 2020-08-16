@@ -114,38 +114,38 @@ We round-off data structuring by learning two powerful tools in data structuring
 We learn to create and collect datasets from the web. This means interacting with apis and webpages and extracting information from unstructured webpages.
 
 #### Required readings
- 
+
 - Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.(This can be found under session_6 in teaching material on github).
 
 - Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
- 
+
 #### Inspirational reading
 
 Below are some interesting academic papers using data scraped from online sources that might provide inspiration for your exam project.
- 
+
 - Stephens-Davidowitz, Seth. 2014. "[The cost of racial animus on a black candidate: Evidence using Google search data](http://www.sciencedirect.com/science/article/pii/S0047272714000929)." *Journal of Public Economics*, 118: 26-40.
- 
+
 - Stephens-Davidowitz, Seth, Hal Varian, and Michael D. Smith. 2016. "[Super Returns to Super Bowl Ads?](http://people.ischool.berkeley.edu/~hal/Papers/2015/super.pdf)". R & R, *Journal of Political Economy*.
- 
+
 - Stephens-Davidowitz, Seth, and Hal Varian. 2015 "[A Hands-on Guide to Google Data](https://www.aeaweb.org/aea/2016conference/program/retrieve.php?pdfid=772)." Google working paper.
- 
+
 - Barberá, Pablo. 2015. "[Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data](http://pan.oxfordjournals.org/content/23/1/76.short)." *Political Analysis*, 23.1: 76-91.
- 
+
 - Cavallo, A. (2018). ["Scraped data and sticky prices"](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00652). *Review of Economics and Statistics*, 100(1).
- 
+
 - Bond, Robert M., et al. 2012. "[A 61-million-person experiment in social influence and political mobilization](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/)." *Nature*, 489.7415: 295-298.
- 
- 
+
+
 ## Session 7: Scraping 2 - Parsing
 Here we develop our skills in parsing. This is a fundamental data science skill that goes beyond web scraping alone.
 
 #### Required readings
 - Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
 - Introduction to pattern matching using regex: "[An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
- 
+
 
 ## Session 8: Advanced Scrapers
-We become good scrapers being able to automate browsing and using regex but to become great we need to study what others are doing to avoid being scraped. This includes bots, honey traps, AJAX, etc. 
+We become good scrapers being able to automate browsing and using regex but to become great we need to study what others are doing to avoid being scraped. This includes bots, honey traps, AJAX, etc.
 
 #### Inspirational reading
 - [Most Commonly used techniques to Prevent Scraping:](https://medium.com/@betoayesa/using-the-content-as-an-anti-scrape-weapon-draft-9bb10cd30e5c)
@@ -158,16 +158,16 @@ We become good scrapers being able to automate browsing and using regex but to b
 
 TBD
 
-## Session 10: Machine learning intro
+## Session 10: Modeling and machine learning
 
-We introduce basic machine learning concepts. We start with the simple machine learning models for classification problems.
+We introduce basic machine learning (ML) concepts. We start with the simple machine learning models for classification problems.
 
 #### Required readings
 
 - PML: chapters 1,2 and the following section from chapter 3:
   - Modeling class probabilities via logistic regression
 
-## Session 11: Supervised learning 1
+## Session 11: Regression and regularization
 
 We explain the overfitting problem of modelling. We show one possible solution is regularization of standard linear models.
 
@@ -179,26 +179,26 @@ We explain the overfitting problem of modelling. We show one possible solution i
 - PML: chapter 4, the following sections:
   - Bringing features onto the same scale
   - Selecting meaningful features
+- PML: chapter 10, the following sections:
+    - Introducing linear regression
+    - Implementing an ordinary least squares linear regression model
+    - Evaluating the performance of linear regression models
+    - Using regularized methods for regression
+    - Turning a linear regression model into a curve – polynomial regression
 
 
 
 
-## Session 12: Supervised learning 2
+## Session 12: Model selection and cross-validation
 
 We introduce cross validation to gauge overfitting and review the linear model.
 
 #### Required readings
 
 - PML: chapter 6.
-- PML: chapter 10, the following sections:
-  - Introducing linear regression
-  - Implementing an ordinary least squares linear regression model
-  - Evaluating the performance of linear regression models
-  - Using regularized methods for regression
-  - Turning a linear regression model into a curve – polynomial regression
 
 
-## Session 13: Supervised learning 3
+## Session 13: Non-linear ML and applications
 
 We give an overview of non-linear machine learning models and outline how machine learning tools can be applied in social science.
 
@@ -211,12 +211,9 @@ We give an overview of non-linear machine learning models and outline how machin
 - Athey, Susan. 2018. [The Impact of Machine Learning on Economics](http://www.nber.org/chapters/c14009.pdf) *NBER*
 
 
+
+
 ## Session 14: Text data
-TBD
-
-
-
-## Session 15: Text data
 We introduce the concept of **Text as Data**, and apply our newly acquired knowledge of supervised learning to a text classification problem.
 
 #### Required readings
