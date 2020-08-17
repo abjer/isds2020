@@ -44,7 +44,7 @@ Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | [pdf1](https://github.com/abjer/
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
  |       | ---------   Week 2  --------- | |
 Aug 17|  9-12 | 10. Modeling and machine learning (ML)| ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_10/module_10.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_10/module_10_solution.ipynb)
-Aug 17| 13-16 | 11. Linear regression and regularization | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11.ipynb)
+Aug 17| 13-16 | 11. Linear regression and regularization | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11_solution.ipynb)
 Aug 18|  9-12 | 12. Model selection and cross-validation | ABN & TAs|  
 Aug 18| 13-16 | 13. Non-linear ML and applications | ABN & TAs|
 Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  |  
