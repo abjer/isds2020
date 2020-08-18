@@ -45,8 +45,8 @@ Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL | [pdf1](https://github.com/abjer/
  |       | ---------   Week 2  --------- | |
 Aug 17|  9-12 | 10. Modeling and machine learning (ML)| ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_10/module_10.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_10/module_10_solution.ipynb)
 Aug 17| 13-16 | 11. Linear regression and regularization | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11_solution.ipynb)
-Aug 18|  9-12 | 12. Model selection and cross-validation | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_12/module_12.ipynb)
-Aug 18| 13-16 | 13. Non-linear ML and applications | ABN & TAs| [le1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/lecture_13_slides.ipynb), [le1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/recap_supervised_ml.ipynb)
+Aug 18|  9-12 | 12. Model selection and cross-validation | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_12/module_12.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_12/module_12_solution.ipynb)
+Aug 18| 13-16 | 13. Non-linear ML and applications | ABN & TAs| [le1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/lecture_13_slides.ipynb), [le2](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/recap_supervised_ml.ipynb)
 Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  |  
 Aug 19|  9-12 | 14. Text as data  | TJ & TAs|
 Aug 20| 23:59 | <font color="red">Assignment 2 hand-in</font>  |  |  
@@ -93,5 +93,5 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 #### Legend
 - nb: Slides and exercise in Jupyter Notebook format
 - nb sol: Slides and exercise in Jupyter Notebook format (Without solutions to the exercises you have to hand in)
-- {ex, lect, sol}: Respectively refer to exercises, slidesor solutions in Jupyter Notebook format
+- {ex, le, sol}: Respectively refer to exercises, lecture slides or solutions in Jupyter Notebook format
 - pdf: Slides in PDF format
