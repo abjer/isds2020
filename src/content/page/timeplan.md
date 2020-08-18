@@ -47,8 +47,8 @@ Aug 17|  9-12 | 10. Modeling and machine learning (ML)| ABN & TAs|  [nb](https:/
 Aug 17| 13-16 | 11. Linear regression and regularization | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_11/module_11_solution.ipynb)
 Aug 18|  9-12 | 12. Model selection and cross-validation | ABN & TAs|  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_12/module_12.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_12/module_12_solution.ipynb)
 Aug 18| 13-16 | 13. Non-linear ML and applications | ABN & TAs| [le1](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/lecture_13_slides.ipynb), [le2](https://github.com/abjer/isds2020/blob/master/teaching_material/session_13/recap_supervised_ml.ipynb)
-Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  |  
-Aug 19|  9-12 | 14. Text as data  | TJ & TAs|
+Aug 18| 20:00 | <font color="green">Assignment 2 posted</font>  |  |  [nb](https://github.com/abjer/isds2020/blob/master/assignments/assignment2/assignment_2.ipynb)
+Aug 19|  9-12 | 14. Text as data  | TJ & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_14/Introduction_to_Social_Data_Science_Text_as_Data.ipynb)
 Aug 20| 23:59 | <font color="red">Assignment 2 hand-in</font>  |  |  
 Aug 21| 9-11 |  *Supervision 2* `*` | TAs |
       |       | ---------   Week 3  ---------   | |
